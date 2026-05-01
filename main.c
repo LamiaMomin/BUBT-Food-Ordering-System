@@ -784,6 +784,6 @@ void show_total_cash_today() {
     printf("\nTotal cash earned today: %.2f\n", total_cash);
     printf("\nTotal discount applied today: %.2f\n", total_discount);
     printf("\nNet cash earned today: %.2f\n", net_cash);
-}
+} 
 
 
